@@ -30,7 +30,7 @@ En este proyecto, voy a desarrollar una aplicación móvil diseñada para mejora
 | ![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | Desarrollo móvil |
 | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) | Lenguaje principal |
 | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) | Base de datos |
-| ![Arasaac](arasaac2.png) | Creación Pictogramas |
+| <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/y85L799G/arasaac2.png' border='0' alt='arasaac2'/></a> | Creación Pictogramas |
 | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) | Desarrollo Interfaz |
 
 ---
